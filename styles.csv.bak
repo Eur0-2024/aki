@@ -1,0 +1,4 @@
+﻿name,prompt,negative_prompt
+None,,
+基础起手式,"masterpiece, best quality, ","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry"
+古装少年,"1boy, a young boy in ancient chinese clothing, looking into the distance, melancholic expression, misty mountain background, soft focus, (atmospheric:1.1), (candid shot:0.9)","(worst quality, low quality:1.4), cartoon, anime, painting, blurry, ugly, bad anatomy, disfigured, unrealistic"
